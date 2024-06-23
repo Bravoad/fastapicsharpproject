@@ -1,0 +1,17 @@
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\bin\Debug\net8.0\FASTAPIVIEW.exe
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\bin\Debug\net8.0\FASTAPIVIEW.deps.json
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\bin\Debug\net8.0\FASTAPIVIEW.runtimeconfig.json
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\bin\Debug\net8.0\FASTAPIVIEW.dll
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\bin\Debug\net8.0\FASTAPIVIEW.pdb
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.AssemblyInfoInputs.cache
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.AssemblyInfo.cs
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.csproj.CoreCompileInputs.cache
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.dll
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\refint\FASTAPIVIEW.dll
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.pdb
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.genruntimeconfig.cache
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\ref\FASTAPIVIEW.dll
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIVIEW.csproj.AssemblyReference.cache
+D:\backend_training\fastApiProject\FASTAPIVIEW\FASTAPIVIEW\obj\Debug\net8.0\FASTAPIV.06C01F97.Up2Date
